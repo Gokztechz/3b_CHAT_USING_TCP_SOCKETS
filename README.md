@@ -42,9 +42,9 @@ def start_server():
         client_handler.start()
 
 start_server()
-```python
-### CLIENT:
 ```
+### CLIENT:
+```python
 import socket
 
 def start_client():
@@ -66,10 +66,8 @@ def start_client():
 start_client()
 ```
 ## OUPUT:
-
 ### SERVER:
 ![image](https://github.com/Gokztechz/3b_CHAT_USING_TCP_SOCKETS/assets/117667038/04137980-c328-46ee-95aa-2456e96423eb)
-
 ### CLIENT:
 ![image](https://github.com/Gokztechz/3b_CHAT_USING_TCP_SOCKETS/assets/117667038/16998407-ff1e-4f5a-af76-bf39e002720e)
 
